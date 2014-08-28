@@ -5,11 +5,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
+    <script type="text/javascript" src="/Scripts/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="/Scripts/sample.js"></script>
 </head>
 <body>
     <form id="form1" runat="server">
     <div>
-    
+    <button onclick="javascript:alert(Sample.Global.Resources.HelloWorld);">Test</button>
     </div>
     </form>
 </body>
