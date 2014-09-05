@@ -9,3 +9,5 @@ and this one
 http://msdn.microsoft.com/en-us/library/office/fp179919(v=office.15).aspx
 
 and also check the related repos
+https://github.com/baywet/jsaspmvclocalize
+https://github.com/baywet/jsfulltrustlocalize
